@@ -92,7 +92,7 @@ p {
 }
 
 .footer {
-    position: relative;
+    position: bottom;
     top: 120px;
     z-index: 3;
     max-width: 900px;
@@ -102,7 +102,7 @@ p {
 }
 
 .footer-content {
-    padding: 5px 5px 5px 20px;
+    padding: 15px 15px 15px 20px;
     color: rgb(4, 133, 64);
     font-size: small;
 }
