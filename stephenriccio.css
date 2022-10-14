@@ -25,7 +25,7 @@ body {
 }
 
 .top-menu {
-   background-color: #131359;
+   background-color: #008c1e;
    position: absolute;
    top: 85px;
    z-index: 2;
@@ -77,7 +77,6 @@ body {
 
 img {
     opacity: 0.8;
-    size: 20%; 
 }
 
 h1 {
